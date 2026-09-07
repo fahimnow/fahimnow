@@ -8,7 +8,7 @@
   <a href="https://github.com/fahimnow">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fahim404">
+  <a href="https://www.linkedin.com/in/fahimnow">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fahimislam222@gmail.com">
@@ -32,12 +32,13 @@ I'm a **Frontend Developer** passionate about turning ideas and designs into fas
 ```javascript
 const fahim = {
   role: "Frontend Developer",
-  education: "BSc in Computer Science & Engineering",
-  focus: ["Frontend Development", "UI/UX", "JavaScript"],
-  currentlyLearning: ["Advanced JavaScript", "React", "Modern Frontend"],
-  mindset: "Build → Learn → Improve → Repeat"
+  stack: ["HTML", "CSS", "JavaScript", "Tailwind"],
+  focus: "Modern & Responsive Web Development",
+  learning: ["React", "Next.js", "Advanced JS"],
+  goal: "Build meaningful digital experiences",
 };
 ```
+
 
 ---
 
