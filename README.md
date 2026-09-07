@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Frontend Developer** passionate about turning ideas and designs into fast, responsive, and interactive web applications.
 
