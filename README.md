@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Fahim Islam
 
-### Frontend Developer · CSE Graduate · Problem Solver
+### Frontend Developer
 
 > I build clean, responsive, and user-focused web experiences with modern frontend technologies.
 
