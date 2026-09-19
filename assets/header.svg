@@ -1,0 +1,36 @@
+<svg width="1400" height="250" viewBox="0 0 1400 250" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1220"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#818CF8"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".08"/>
+  </pattern>
+</defs>
+
+<rect width="1400" height="250" rx="18" fill="url(#bg)"/>
+<rect width="1400" height="250" rx="18" fill="url(#grid)"/>
+
+<path d="M0 208 C220 160 310 235 510 190 S850 145 1040 188 S1260 220 1400 170"
+      fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2"/>
+
+<circle cx="1130" cy="75" r="54" fill="none" stroke="#38BDF8" stroke-opacity=".18"/>
+<circle cx="1130" cy="75" r="82" fill="none" stroke="#818CF8" stroke-opacity=".10"/>
+<circle cx="1130" cy="75" r="3" fill="#38BDF8"/>
+
+<text x="75" y="100" fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="38" font-weight="700">FRONTEND / WEB</text>
+
+<text x="75" y="140" fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17">Clean interfaces • Practical JavaScript • Continuous learning</text>
+
+<text x="75" y="178" fill="#64748B"
+      font-family="monospace" font-size="13">FAHIMNOW / BUILD → LEARN → IMPROVE</text>
+</svg>
