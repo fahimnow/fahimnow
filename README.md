@@ -77,7 +77,7 @@ Build → Learn → Improve
 
 Responsive banking interface with add money, cash out, transfers, bill payments and transaction history.
 
-**[Live Demo](YOUR_PAYOO_LIVE_URL)** · **[Code](YOUR_PAYOO_REPO_URL)**
+**[Live Demo](https://fahimnow.github.io/payoo-mobile-app/)** · **[Code](https://github.com/fahimnow/payoo-mobile-app)**
 
 </td>
 
@@ -91,7 +91,7 @@ Responsive banking interface with add money, cash out, transfers, bill payments 
 
 Dynamic lessons and vocabulary cards with API integration, pronunciation, meanings and active lesson states.
 
-**[Live Demo](YOUR_JANALA_LIVE_URL)** · **[Code](YOUR_JANALA_REPO_URL)**
+**[Live Demo](https://fahimnow.github.io/english-janala/)** · **[Code](https://github.com/fahimnow/english-janala)**
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ Interactive emergency cards with heart count, copy interaction, calling function
 
 A modern banking interface focused on JavaScript interactions, DOM manipulation and frontend UI.
 
-**[Live Demo](YOUR_BANKIST_LIVE_URL)** · **[Code](YOUR_BANKIST_REPO_URL)**
+**[Live Demo](https://fahimnow.github.io/bankist/)** · **[Code](https://github.com/fahimnow/bankist)**
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ A modern banking interface focused on JavaScript interactions, DOM manipulation 
 
 Responsive restaurant experience with interactive sections and scroll-based visual effects.
 
-**[Live Demo](YOUR_FOOD_LIVE_URL)** · **[Code](YOUR_FOOD_REPO_URL)**
+**[Live Demo](https://fahimnow.github.io/responsive-fried-chicken-website/)** · **[Code](https://github.com/fahimnow/responsive-fried-chicken-website)**
 
 </td>
 
