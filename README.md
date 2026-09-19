@@ -11,10 +11,10 @@ Building clean, responsive and interactive web experiences.
 <a href="https://github.com/fahimnow">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/fahimnow/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://fahimnow.github.io/personal-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
@@ -189,7 +189,7 @@ Interactive game demonstrating JavaScript logic, events, DOM manipulation and us
 
 **BSc in Computer Science & Engineering**  
 American International University–Bangladesh (AIUB)  
-**Major:** Information Systems · **2020–2025** · **CGPA: 3.36 / 4.00**
+**Major:** Information Systems ·
 
 ---
 
@@ -214,11 +214,11 @@ I'm continuing to strengthen my frontend fundamentals through practical projects
 
 <a href="https://github.com/fahimnow">GitHub</a>
 &nbsp; · &nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/fahimnow/">LinkedIn</a>
 &nbsp; · &nbsp;
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://fahimnow.github.io/personal-portfolio/">Portfolio</a>
 &nbsp; · &nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<a href="mailto:fahimislam222@gmail.com">Email</a>
 
 <br><br>
 
